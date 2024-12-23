@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ajesus:
+      email: ashleyalejandra56@gmail.com
+      name: Ashley Jesus
+      password: $2b$12$uR.KUnulQA8iVX65hYyR/ej5CKnrJV0O.DKu2AIhV/OXcdgyIGXZ2
+    ojimenez:
+      email: jimenezramirezomar02@gmail.com
+      name: Omar Jimenez
+      password: $2b$12$cYaa3lYi2IodsZJcDrvo5O0q1AGKvR4Ze8bI6KL4b/GydtjV8XKqm
+    tester:
+      email: testing@gmail.com
+      name: Testing
+      password: $2b$12$NN9qbukbNvZcz4wEijrCbO6x3mQDo280ekqLn0qMvdHXyoH/T5Vyy
+preauthorized:
+  emails:
+  - melsby@gmail.com
